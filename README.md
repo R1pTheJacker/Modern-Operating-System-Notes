@@ -35,8 +35,9 @@ OS lecture in XDU
 #### Lec17-IOSoftware&Layer
 #### Lec18-IOHardware
 
+### 05-Deadlock
+
+### 06-MultiProcessors
 
 ## WORKING
-### 05-Deadlock
-### 06-MultiProcessors
 ### 07-Security
