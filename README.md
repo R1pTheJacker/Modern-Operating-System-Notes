@@ -1,7 +1,9 @@
 # Modern-Operating-System-Notes
-OS lecture in XDU
-Modern Operating System（西电李航老师）
-https://www.bilibili.com/video/BV1RE411L77h?from=search&seid=16552582570137416620
+- OS lecture in XDU
+
+- Modern Operating System（西电李航老师）
+
+- https://www.bilibili.com/video/BV1RE411L77h?from=search&seid=16552582570137416620
 
 ## FINISHED
 ### 00-Overview
